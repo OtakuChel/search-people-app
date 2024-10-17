@@ -42,10 +42,17 @@
 6. Использовать изоляцию стилей.
 
 # Документация API
+
 `https://jsonplaceholder.typicode.com`
+
 Пример запроса для одного пользователя по id:
+
  `https://jsonplaceholder.typicode.com/users?id=1`
+ 
  method: GET
+ 
 Пример запроса для нескольких пользователей по id:
+
  `https://jsonplaceholder.typicode.com/users?id=1&id=2`
+ 
  `method: GET`
