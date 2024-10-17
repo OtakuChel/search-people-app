@@ -1,0 +1,13 @@
+.sidebarWrapper{
+    display: flex;
+    flex-direction: column;
+    
+    .sidebarName{
+        margin-top: 16px;
+        margin-bottom: 10px;
+        font-weight: 600;
+        h2{
+            font-size: 18px;
+        }
+    }
+}

@@ -1,0 +1,50 @@
+.userFullIfo {
+  display: flex;
+  margin-top: 40px;
+  img {
+    width: 425px;
+    height: 290px;
+    margin-right: 40px;
+  }
+  .userInfo {
+    h4 {
+      position: relative;
+      right: 6px;
+      margin-bottom: 10px;
+      margin-top: 0px;
+    }
+    .textBlock {
+      font-weight: 600;
+      display: flex;
+      p {
+        margin-right: 5px;
+        margin-bottom: 10px;
+        margin-top: 5px;
+      }
+      .userMail {
+        font-weight: 400;
+        color: #76787d;
+      }
+      .phone {
+        font-weight: 400;
+        color: #76787d;
+      }
+      .aboutMeInfo {
+        font-weight: 400;
+        color: #76787d;
+      }
+    }
+    .textBlockAboutMe {
+      font-weight: 600;
+      p {
+        margin-right: 5px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+      }
+      .aboutMeInfo {
+        font-weight: 400;
+        color: #76787d;
+      }
+    }
+  }
+}
